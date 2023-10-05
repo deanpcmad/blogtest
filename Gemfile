@@ -3,7 +3,7 @@ source "https://rubygems.org"
 ruby "3.2.2"
 
 # Bundle edge Rails instead:
-gem "rails", github: "rails/rails", branch: "7-1-stable", ref: "1490788ecd064e3a01a5bc2e89473405330dd807"
+gem "rails", github: "rails/rails", branch: "7-1-stable", ref: "06e13c1fe2ff782b6d16c3d7a2f53925c7093ff5"
 # gem "rails", "7.1.0.rc2"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
